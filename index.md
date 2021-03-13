@@ -1,19 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to the EarthwormGym!
 
-You can use the [editor on GitHub](https://github.com/madewhatnow/EarthwormGym/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is all about compost, and worms. And watching them do their thing. Slowly, but live and online. Without opening the lid. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Like this:
 
-### Markdown
+<iframe src="http://player.twitch.tv/?channel={madewhatnow}" allowfullscreen height="X" width="Y" *class="col-md-12">
+</iframe>
+
+<iframe frameborder="0" 
+        scrolling="no" 
+        id="chat_embed" 
+        src="http://www.twitch.tv/madewhatnow/chat" 
+        height="{HEIGHT}" 
+        width="{WIDTH}">
+</iframe>`
+
+
+### Introduction
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+### Introduction
 
 - Bulleted
 - List
