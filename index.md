@@ -1,3 +1,7 @@
+---
+twitchId: madewhatnow
+---
+
 ## Welcome to the EarthwormGym!
 
 This is all about compost, and worms. And watching them do their thing. Slowly, but live and online. Without opening the lid. 
