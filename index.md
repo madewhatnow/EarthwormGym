@@ -8,7 +8,7 @@ This is all about compost, and worms. And watching them do their thing. Slowly, 
 
 Like this:
 
-{% include twitchPlayer.html id=page.twitchId %}
+{% include twitchPlayer.html id=page.madewhatnow %}
 
 
 ### Introduction
