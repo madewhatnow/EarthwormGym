@@ -4,16 +4,7 @@ This is all about compost, and worms. And watching them do their thing. Slowly, 
 
 Like this:
 
-<iframe src="http://player.twitch.tv/?channel={madewhatnow}" allowfullscreen height="800" width="600" *class="col-md-12">
-</iframe>
-
-<iframe frameborder="0" 
-        scrolling="no" 
-        id="chat_embed" 
-        src="http://www.twitch.tv/madewhatnow/chat" 
-        height="200" 
-        width="800">
-</iframe>`
+{% include twitchPlayer.html id=page.twitchId %}
 
 
 ### Introduction
